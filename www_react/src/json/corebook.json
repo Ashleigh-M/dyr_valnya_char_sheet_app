@@ -51,8 +51,20 @@
             "id": "backstory",
             "name": "Backstory",
             "tags": [
-                {"h3":"sb2 heres an h3"},
-                {"p":"sb2 heres an p"}
+        {"h3":"Link to Home"},
+        {"p":"From the beginning of recorded time, and across every eon, The Gates have stood. They allow for strange passage across all the lands and millions of worlds."},
+		{"p":"Recorded during that time have been civilization after civilization of demihumans, each calling itself "Man" and anyone else "The Other". These societies rise, conquer, and fall. Sometimes using powerful artefacts called Technika, sometimes bizarre forces called Magicka, sometimes coming from worlds rich in the enigmatic substance Astryl, and sometimes by just being better at conventional murder. Demihumans killing demihumans, as it has been ever since there was such a thing as demihuman."},
+		{"p":"The Last Great Civilization was called:  The Commonwealth of United Worlds, Confederated Nation-States, Sovereign Freeholds, Guildmaster Trade Alliance, Entwined Subsentients, Nymph-Troll-Balrog League, etc.. // keep making more"},
+		{"p":"Aka The Commonwealth."},
+		{"p":"They say an endless vigil of 1,000 suns shone down on The Commonwealth. While it had awesome, terrifying, and mysterious powers at its command, it mostly preferred to subjugate and occupy without bloodshed. The reign of The Commonwealth may have lasted for many hundreds or thousands of years more, However:"},
+		{"p":"Then the dyr came."},
+		{"p":"Evil vicious jet black gibbering madness one cannot look upon nor comprehend. It comes from The Gates, and it cannot be killed. Only items imbued with Magicka/Technika can repel the dyr at all. The bravest battles saw the heroes merely annoy it into retreat, taking heavy loses under its vicious tentacled murder ropes."},
+		{"p":"As the attacks got worse, and it became harder and harder to mobilize the proper defense of stricken worlds, the decision was made. "},
+		{"h3":"All the gates must be closed."},
+		{"p":"The Commonwealth mobilized more than a million warriors, decked out in primo gear from the last of the artefactories. And they set out."},
+		{"p":"Teams went to every charted planet, and entered the final sacred runes into the Main Gate of every known world. The Gates would allow one final egress, and then would cease all functions forever. And when the Main Gate of a world closed, all the dozens or thousands of Minor Gates would stop too. Gateless, the dyr can no longer threaten that world."},
+		{"p":"But these egresses make for strange passage. It's a blind jump and the party almost never ends up at a Main Gate (only minor gates) and they may never arrive together.. or at the same time.. or in the same time period.. or even with the same party."},
+		{"p":"Finally, as each hero dies, they leave their mission and purpose in their gear, in the form of guardian spirits called viyas. Every item has a viya, and they merge and get stronger the more technika one collects. And all viyas tell stories of past adventures, of heroes long dead, or thyself, and of compatriots, now and to come."},
             ]
         },
 
